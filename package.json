@@ -1,0 +1,12 @@
+{
+  "name": "es6",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/rafaelanacleto/es6.git",
+  "author": "Rafael Anacleto <rafael.anacleto@shareprime.com.br>",
+  "license": "MIT",
+  "dependencies": {
+    "@babel/cli": "^7.7.7",
+    "@babel/preset-env": "^7.7.7"
+  }
+}
